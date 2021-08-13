@@ -1,0 +1,8 @@
+name, ezz
+age, 20
+gender, m
+nationality, pali
+uni, bzu
+email, izzabuassab@hotmail.com
+dob, 12-10-1998
+phone number, +970599123456

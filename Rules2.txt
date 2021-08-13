@@ -1,0 +1,5 @@
+name, string
+age, number
+email, email
+phone number, phone number
+dob, date

@@ -1,0 +1,7 @@
+name, ezz
+age, 20
+gender, m
+nationality, pali
+uni, bzu
+email, izzabuassab@hotmail.com
+dob, Jerusalem
